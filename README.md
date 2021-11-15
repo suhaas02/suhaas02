@@ -10,7 +10,7 @@
 <h1>I'm <a  href="https://github.com/suhaas02">Suhaas</a></h1>
 <p align="left">
 <!-- <a href="#" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111703.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-<a href="https://www.linkedin.com/in/anand-suhaas-vegi-0b0b55206/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111465.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/anand-suhaas-vegi-0b0b55206/" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.instagram.com/suhaassuuuuuuuu/" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### 👨🏻‍💻 &nbsp;About Me
