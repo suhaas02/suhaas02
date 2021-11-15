@@ -18,7 +18,7 @@
 🎓 &nbsp;I'm a pursuing Electronics and Communication Engineering at IIIT Dharwad, Karnataka .\
 🌱 &nbsp;I'm a full stack Web Developer , aspiring to be MERN stack developer, exploring Data Science and also experienced in Data Structures & Algorithms in C++ .\
 ✍️ &nbsp;I like to play cricket and watch web-series in my free time.\
-✉️ &nbsp;You can shoot me an email at vsuhaas02@gmail.com! I'll try to respond as soon as I can.\  
+✉️ &nbsp;You can shoot me an email at vsuhaas02@gmail.com! I'll try to respond as soon as I can :) 
   
  ### My Industrial Experiences
  - Competitive Coding (Codechef)
