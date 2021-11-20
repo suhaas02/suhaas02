@@ -96,7 +96,7 @@
       </td>
       <td width="20%" align="center">
         <span>JavaScript</span><br><br><br>
-        <img height="64px" src="https://cdn-icons.flaticon.com/png/512/4726/premium/4726005.png?token=exp=1636378021~hmac=3e0583cb6353acd4cd2475f18aa03c6c">
+        <img height="64px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.favpng.com%2F2%2F12%2F22%2Fjavascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg&imgrefurl=https%3A%2F%2Ffavpng.com%2Fpng_view%2Fjavascript-icon-png%2FXcfV8Zca&tbnid=JA9bd3TSkRObuM&vet=12ahUKEwiGr5rh6Kb0AhVTSSsKHSEFAnwQMygMegUIARDQAQ..i&docid=rnJgSrot4lCXRM&w=820&h=800&itg=1&q=js%20icon%20html&ved=2ahUKEwiGr5rh6Kb0AhVTSSsKHSEFAnwQMygMegUIARDQAQ">
   </td>
     </tr>
     <tr>
