@@ -110,7 +110,7 @@ I specialize in building scalable, reusable verification environments and debugg
 
 ## ⭐ Current Focus
 - PHY-level IP Verification
-- - Advanced UVM Techniques
+- Advanced UVM Techniques
 - Formal Verification (FRV/FPV) 
 - High-speed interfaces & Memory protocols  
 
